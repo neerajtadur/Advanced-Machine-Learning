@@ -5,5 +5,5 @@ Detecting Illegitimate Network Connections with Autoencoders
 
 * Project notebook
 
-# Detecting Toxic Comments with RNNs - Project 2
+# Detecting Toxic Comments - Project 2
 
